@@ -62,5 +62,5 @@ Cuando tengas la función intenta añadir los siguiente valores a la lista 10, -
 Sugerencia
 Puedes utilizar la sintaxis "elemento in lista"
 elementos = [1, 5, -2]
- 
+  
 # Completa el ejercicio aquí
